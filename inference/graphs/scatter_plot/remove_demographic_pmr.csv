@@ -1,0 +1,3 @@
+﻿PMR,demographic_type,list,operation_type,Fail %
+remove_demographic,gender,gender_list,NA,55.7%
+remove_demographic,gender,pronoun_list,NA,32.8%

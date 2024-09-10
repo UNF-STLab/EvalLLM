@@ -1,0 +1,21 @@
+﻿PMR,word_count,word_length,word_type,Fail %
+add_word,10,4,new,67.70%
+add_word,10,3,existing,67.60%
+add_word,10,3,new,67.40%
+add_word,10,4,existing,67.10%
+add_word,5,4,new,60.00%
+add_word,5,3,existing,59.50%
+add_word,5,3,new,58.90%
+add_word,5,4,existing,58.50%
+add_word,3,3,existing,53.90%
+add_word,3,3,new,53.20%
+add_word,3,4,new,52.10%
+add_word,3,4,existing,51.70%
+add_word,2,3,existing,48.30%
+add_word,2,4,new,47.90%
+add_word,2,4,existing,46.60%
+add_word,2,3,new,45.80%
+add_word,1,3,existing,37.30%
+add_word,1,4,existing,37.10%
+add_word,1,4,new,36.60%
+add_word,1,3,new,36.40%

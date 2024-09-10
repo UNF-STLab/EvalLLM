@@ -1,0 +1,11 @@
+mr_template,mr_scenario,1,2,3,4,5,test_pass,test_fail
+swap_word,test_full_swap_mr_1_60_K5,69,134,194,182,163,2630,742
+swap_word,test_full_swap_mr_1_70_K5,63,142,189,195,155,2628,744
+swap_word,test_full_swap_mr_2_60_K5,85,174,228,265,213,2407,965
+swap_word,test_full_swap_mr_2_70_K5,85,199,257,272,195,2364,1008
+swap_word,test_full_swap_mr_3_60_K5,91,210,289,328,253,2201,1171
+swap_word,test_full_swap_mr_3_70_K5,89,237,270,309,235,2232,1140
+swap_word,test_full_swap_mr_5_60_K5,113,283,398,383,290,1905,1467
+swap_word,test_full_swap_mr_5_70_K5,106,263,370,397,305,1931,1441
+swap_word,test_full_swap_mr_10_60_K5,124,337,498,514,370,1529,1843
+swap_word,test_full_swap_mr_10_70_K5,146,364,499,460,374,1529,1843

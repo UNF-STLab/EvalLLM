@@ -1,0 +1,6 @@
+mr_template,mr_scenario,0,1,2,3,4,5,test_pass,test_fail
+chemical_to_commonword,test_full_word_to_commonword_top5_mr_K5,41,120,133,148,122,721,1867,1505
+chemical_to_commonword,test_full_word_to_commonword_top8_mr_K5,42,127,139,163,130,684,1778,1594
+chemical_to_commonword,test_full_word_to_commonword_top10_mr_K5,51,131,161,160,140,642,1677,1695
+chemical_to_commonword,test_full_word_to_commonword_top15_mr_K5,52,145,167,166,164,591,1590,1782
+chemical_to_commonword,test_full_word_to_commonword_top20_mr_K5,53,143,190,184,152,563,1527,1845

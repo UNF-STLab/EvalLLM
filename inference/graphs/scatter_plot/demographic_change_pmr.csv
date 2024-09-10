@@ -1,0 +1,5 @@
+﻿PMR,demographic_type,list,operation_type,Fail %
+demographic_change,gender,gender_patient_dict,replace,52.5%
+demographic_change,gender,gender_dict,swap,35.7%
+demographic_change,gender,pronoun_patient_dict,replace,30.6%
+demographic_change,gender,sex_dict,swap,2.2%

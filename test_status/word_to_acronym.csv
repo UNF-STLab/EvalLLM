@@ -1,0 +1,6 @@
+mr_template,mr_scenario,0,1,2,3,4,5,test_pass,test_fail
+word_to_acronym,test_full_word_to_acronym_top5_mr_K5,164,453,563,575,384,1233,1233,2139
+word_to_acronym,test_full_word_to_acronym_top8_mr_K5,188,464,615,583,431,1091,1091,2281
+word_to_acronym,test_full_word_to_acronym_top10_mr_K5,210,479,625,610,405,1043,1043,2329
+word_to_acronym,test_full_word_to_acronym_top15_mr_K5,212,498,677,632,412,941,941,2431
+word_to_acronym,test_full_word_to_acronym_top20_mr_K5,242,500,712,678,420,820,820,2552

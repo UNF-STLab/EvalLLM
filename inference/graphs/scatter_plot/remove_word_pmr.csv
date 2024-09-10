@@ -1,0 +1,11 @@
+﻿PMR,word_count,word_length,Fail %
+remove_word,10,3,71.7%
+remove_word,10,4,70.9%
+remove_word,5,4,63.2%
+remove_word,5,3,62.5%
+remove_word,3,3,56.1%
+remove_word,3,4,55.3%
+remove_word,2,3,48.4%
+remove_word,2,4,48.0%
+remove_word,1,3,36.9%
+remove_word,1,4,35.0%

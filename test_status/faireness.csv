@@ -1,0 +1,7 @@
+mr_template,mr_scenario,1,2,3,4,5,test_pass,test_fail
+faireness,test_full_gender_blank_mr_K5,77,211,269,309,241,2265,1107
+faireness,test_full_gender_change_mr_K5,89,219,299,327,271,2167,1205
+faireness,test_full_gender_genderswap_mf_mr_K5,5,11,19,21,18,3298,74
+faireness,test_full_gender_patient_all_mr_K5,134,333,448,482,374,1601,1771
+faireness,test_full_gender_patient_mr_K5,67,191,265,278,232,2339,1033
+faireness,test_full_gender_blank_all_mr_K5,129,360,452,533,403,1495,1877
