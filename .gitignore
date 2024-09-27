@@ -1,4 +1,5 @@
 .DS_STORE
+.DS_Store
 .ipynb_checkpoints
 .env
 .venv
@@ -7,3 +8,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+/log/
+/original_input/
+/modified_input/
